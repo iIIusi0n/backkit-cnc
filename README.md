@@ -1,5 +1,5 @@
 # backkit-cnc
-C&amp;C server of github.com/iIIusi0n/backkit
+C&amp;C server of https://github.com/iIIusi0n/backkit
 
 ## todo
 - Add default C&C server that use normal internet connection.
